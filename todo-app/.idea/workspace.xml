@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5585881-c51c-4a5b-8654-f6a238426e25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/todo/Components/ListTodosComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/todo/Components/ListTodosComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/todo/Components/NewTodoComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/todo/Components/NewTodoComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/todo/Components/TodoUpdateComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/todo/Components/TodoUpdateComponent.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1fkSHAxpLB3y4DcWUuN1oK7cce7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/local/Cellar/node/13.13.0/bin/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/learning-examples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/todo/api/todo" />
+      <recent name="$PROJECT_DIR$/src/Components/todo/api" />
+      <recent name="$PROJECT_DIR$/src/Components/todo" />
+      <recent name="$PROJECT_DIR$/src/Components/todo/Components" />
+      <recent name="$PROJECT_DIR$/src/Components/todo/Services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5585881-c51c-4a5b-8654-f6a238426e25" name="Default Changelist" comment="" />
+      <created>1596561652598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596561652598</updated>
+      <workItem from="1596561654356" duration="7268000" />
+      <workItem from="1596760509171" duration="6780000" />
+      <workItem from="1597110911791" duration="4226000" />
+      <workItem from="1597171222043" duration="1046000" />
+      <workItem from="1597180531664" duration="35629000" />
+      <workItem from="1597773298723" duration="2099000" />
+      <workItem from="1597794965929" duration="197000" />
+      <workItem from="1597888901564" duration="5782000" />
+      <workItem from="1597943380963" duration="10734000" />
+      <workItem from="1598728689256" duration="3605000" />
+      <workItem from="1598749085309" duration="107000" />
+      <workItem from="1598755751597" duration="2507000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1596561952004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596561952004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Step 1 Getting Started with React - Building Counter Application">
+      <created>1597110936767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597110936767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UI ready, starting connecting to BackEnd">
+      <created>1597280805967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597280805967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete Ready /  Update Component processing">
+      <created>1597417964859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597417964861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete Ready /  Update Component processing">
+      <created>1597891015852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597891015852</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Security Completed">
+      <created>1598046459138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598046459139</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JWT">
+      <created>1598398029068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598398029068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finish the url modification / JWT">
+      <created>1598736600883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598736600883</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finish the url modification / JWT">
+      <created>1598801202967</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598801202967</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Step 1 Getting Started with React - Building Counter Application" />
+    <MESSAGE value="UI ready, starting connecting to BackEnd" />
+    <MESSAGE value="Delete Ready /  Update Component processing" />
+    <MESSAGE value="Security Completed" />
+    <MESSAGE value="JWT" />
+    <MESSAGE value="Finish the url modification / JWT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish the url modification / JWT" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="265" key="#ESLint" timestamp="1597263372412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="446" y="265" key="#ESLint/0.0.1920.1080@0.0.1920.1080" timestamp="1597263372412" />
+    <state x="251" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597266356694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="251" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597266356694" />
+    <state x="173" y="23" width="852" height="1021" key="CommitChangelistDialog2" timestamp="1598801202238">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="173" y="23" width="852" height="1021" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1598801202238" />
+    <state x="173" y="23" key="CommitChangelistDialog2/0.23.1920.1021@0.23.1920.1021" timestamp="1598398028671" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1598742910773">
+      <screen x="0" y="23" width="1920" height="1021" />
+    </state>
+    <state width="801" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598032220020" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.23.1920.1021@0.23.1920.1021" timestamp="1598742910773" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1598742910772">
+      <screen x="0" y="23" width="1920" height="1021" />
+    </state>
+    <state width="801" height="262" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598032220019" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.23.1920.1021@0.23.1920.1021" timestamp="1598742910772" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1598742910772">
+      <screen x="0" y="23" width="1920" height="1021" />
+    </state>
+    <state width="801" height="262" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598032220019" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.23.1920.1021@0.23.1920.1021" timestamp="1598742910772" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1598742910772">
+      <screen x="0" y="23" width="1920" height="1021" />
+    </state>
+    <state width="801" height="262" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598032220020" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.23.1920.1021@0.23.1920.1021" timestamp="1598742910772" />
+    <state x="461" y="179" key="SettingsEditor" timestamp="1597889003973">
+      <screen x="0" y="23" width="1920" height="1021" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/0.23.1920.1021@0.23.1920.1021" timestamp="1597889003973" />
+    <state x="208" y="276" key="Vcs.Push.Dialog.v2" timestamp="1598801205008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="208" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598801205008" />
+    <state x="208" y="284" key="Vcs.Push.Dialog.v2/0.23.1920.1021@0.23.1920.1021" timestamp="1598398030918" />
+    <state x="150" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1597112500202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="150" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597112500202" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/learning-examples/SecondComponent.jsx</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
